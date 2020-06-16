@@ -1,0 +1,12 @@
+
+body {
+	font-family: Times New Roman; 
+	text-align: center;
+	margin:0;
+	padding:0;
+}
+
+#logo {
+	height: 600px;
+	width: 400px;
+}
